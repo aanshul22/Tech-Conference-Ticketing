@@ -141,7 +141,7 @@ When your program finishes running, information inside the program will be delet
 
 - All users can directly message any user if they know their username, conversation is initiated by entering the username in the input field and clicking the "+" sign next to it. Past messages can be accessed by clicking on the existing conversation.
 
-- Sign up as attendee or organizer by clicking on ""Don't have an account?" on the welcome screen, if the user doesn't have an account.
+- Sign up as attendee or organizer by clicking on "Don't have an account?" on the welcome screen, if the user doesn't have an account.
 
 - Clicking on the word "Speakers" in the event information section, the user is able to see the full list of speakers in a pop-up window.
 
