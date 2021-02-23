@@ -26,7 +26,7 @@ The design patterns covered in depth are:
 > The design pattern implementation has been described in ```DesignPatterns.txt```.
 
 
-#### Welcome
+### Welcome
 
 To start this program, run ```src/GUIApplication.java```.
 
