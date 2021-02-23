@@ -6,11 +6,11 @@
 
 - The **SOLID principles** of Object Oriented Design
 - **Clean Architechture**
+- **Design Patterns**
 - Using **CRC cards** to start a project
 - Regex
 - Javadocs
 - UML diagrams
-- **Design Patterns**
 
 The design patterns covered in depth are:
 - Dependency Injection 
@@ -89,5 +89,3 @@ When your program finishes running, information inside the program will be delet
 > Other feature updates are mentioned in ```FeaturesList.txt```.
 
 > The text-based implementation has been deleted.
-
-> Total number of commits to this stage: 762
