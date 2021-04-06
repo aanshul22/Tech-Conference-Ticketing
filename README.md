@@ -26,6 +26,11 @@ The design patterns covered in depth are:
 > The design pattern implementation has been described in ```DesignPatterns.txt```.
 
 
+## Demo
+![HomeScreen](DemoPics/HomeScreen.jpg)
+![OrganizerScreen](DemoPics/OrganizerScreen.jpg)
+![MessageScreen](DemoPics/MessageScreen.jpg)
+
 ### Welcome
 
 To start this program, run ```src/GUIApplication.java```.
@@ -79,12 +84,6 @@ Here is a list of pre-made rooms with their corresponding maximum capacity:
 	- Asgard (No events scheduled in this room yet): 4
 
 For full details, you can check out the JSON files under the package named "Data". Enjoy!
-
-## Demo
-![HomeScreen](DemoPics/HomeScreen.jpg)
-![OrganizerScreen](DemoPics/OrganizerScreen.jpg)
-![MessageScreen](DemoPics/MessageScreen.jpg)
-
 
 ### Specification (given by course instructor)
 
